@@ -24,10 +24,10 @@ Classification and Topic Detection on Amazon reviews
 
 ```bash
 amazon-reviews-classification/
-│── idta_coursework_2.py         # Main Python implementation
+│── classification and topic detection on amazon reviews.py         # Main Python implementation
 │── reports/
-│   └── INTELLIGENT DATA AND TEXT ANALYTICS COURSEWORK 2 (1).docx
-│── data/                        # Dataset location 
+│   └── CLASSIFICATION AND TOPIC DETECTION ON AMAZON REVIEWS.docx
+│── data/  amazon_labelled_cells.csv                      # Dataset location 
 │── requirements.txt             # Dependencies
 │── README.md                    # Project documentation
 ```
@@ -37,7 +37,7 @@ Achieved high accuracy on sentiment classification.
 
 Identified key topics discussed in Amazon product reviews.
 
-Visualized topic distributions for better interpretability.
+Visualised topic distributions for better interpretability.
 
 📧 Contact
 
