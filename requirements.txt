@@ -1,0 +1,12 @@
+numpy
+pandas
+matplotlib
+nltk
+scikit-learn
+imbalanced-learn
+gensim
+pyLDAvis
+tensorflow
+tensorflow-hub
+tensorflow-text
+tensorflow-models-official
